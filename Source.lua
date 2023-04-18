@@ -4,3 +4,4 @@ if _G.ThirdPerson then
 else
   loadstring(game:HttpGet("https://raw.githubusercontent.com/idkbutiampoggers/JeffTheKillerMorphV2/main/FirstPerson.lua"))()
 end
+loadstring(game:HttpGet("https://raw.githubusercontent.com/idkbutiampoggers/JeffTheKillerMorphV2/main/Death.lua"))()
