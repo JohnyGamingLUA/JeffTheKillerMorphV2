@@ -1,4 +1,5 @@
 -- Made by JohnyGaming#2917, make sure to credit
+-- also credits to Master Oogway#3595
 
 local Ambush = game:GetObjects("rbxassetid://13167265931")[1]
 local toolmodel = game:GetObjects("rbxassetid://13109828893")[1]
